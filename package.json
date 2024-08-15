@@ -1,0 +1,30 @@
+{
+  "name": "emir-gungor",
+  "version": "1.0.0",
+  "description": "This is a test file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "emir": "echo 'Benim adım emir.'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Emir Güngör",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.5.3",
+    "nodemailer": "^6.9.14",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
